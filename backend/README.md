@@ -11,6 +11,9 @@
 - ***Stopping containers without deleting volumes***
   `docker compose stop`
 
+## URLS
+- ***PgAdmin:*** http://localhost:5050
+
 ## DEFAULT .ENV CONFIGURATION
 
 ***POSTGRES_PASSWORD =*** PoopAppPassword 
