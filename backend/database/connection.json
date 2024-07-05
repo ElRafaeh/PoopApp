@@ -4,8 +4,8 @@
           "Name": "PoopApp Database",
           "Group": "ServerPoopAppDB",
           "Port": 5432,
-          "Username": "poopAppUser",
-          "Password": "poopAppPassword",
+          "Username": "PoopAppUser",
+          "Password": "PoopAppPassword",
           "Host": "PoopAppDB",
           "SSLMode": "prefer",
           "MaintenanceDB": "PoopAppDB"
