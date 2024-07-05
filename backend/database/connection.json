@@ -1,0 +1,14 @@
+{
+  "Servers": {
+      "1": {
+          "Name": "PoopApp Database",
+          "Group": "ServerPoopAppDB",
+          "Port": 5432,
+          "Username": "poopAppUser",
+          "Password": "poopAppPassword",
+          "Host": "PoopAppDB",
+          "SSLMode": "prefer",
+          "MaintenanceDB": "PoopAppDB"
+      }
+  }
+}
