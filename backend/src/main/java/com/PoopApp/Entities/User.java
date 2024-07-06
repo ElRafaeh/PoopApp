@@ -28,15 +28,6 @@ public class User {
     @Column(nullable = false)
     private String password;
 
-    public User(String email, String nickname, String name, String surname, String lastName, String password) {
-        this.email = email;
-        this.nickname = nickname;
-        this.name = name;
-        this.surname = surname;
-        this.lastName = lastName;
-        this.password = password;
-    }
-
     public User() {}
 
     public Long getId() {
